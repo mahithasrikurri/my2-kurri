@@ -9,3 +9,6 @@ Goa is an **ideal place for water sports** and fun lovers. It offers ample oppor
 1. Kayaking
 2. windsurfing
 3. Parasailing
+- Biryani
+- Rice and Fish
+- Sorpotel
