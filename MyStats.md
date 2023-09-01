@@ -20,3 +20,10 @@ Here is the list of sports, I would recommend someone to try because playing spo
 | Basketball          | Perfect for overall fitness. | 3                          |
 | Tennis             | Relieve stress.         | 1                          |
 
+---
+# Two Pithy quotes
+
+> "In the middle of every difficulty lies opportunity" - *Albert Einstein*
+
+> "Your time is limited, don't waste it living someone else's life." - *Steve Jobs*
+
