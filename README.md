@@ -12,5 +12,5 @@ Goa is an **ideal place for water sports** and fun lovers. It offers ample oppor
 - Biryani
 - Rice and Fish
 - Sorpotel
-[link to mystats](MyStats.md)
 
+[link to mystats](MyStats.md)
