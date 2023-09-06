@@ -42,12 +42,22 @@ Here is the list of sports, I would recommend someone to try because playing spo
 
 ---
 ### Code Fencing
->  How to stop repeating-linear- gradiants in css - [Article](https://stackoverflow.com/questions/66942466/how-to-stop-a-repeating-linear-gradient-in-css)
+>  How to create an infinitely-moving repeating linear gradient - [Article](https://stackoverflow.com/questions/63787241/css-how-to-create-an-infinitely-moving-repeating-linear-gradient)
 
 ```
-<div class="gradient"></div>
+<div class="wrapper" style="--w:50%;">
+  Downloading 5 of 10
+</div>
+
+<div class="wrapper" style="--w:70%;--d:200px;--angle:45deg;--sinus:0.707">
+  Downloading 5 of 10
+</div>
+
+<div class="wrapper" style="--w:80%;--d:50px;--angle:-30deg;--sinus:0.5">
+  Downloading 5 of 10
+</div>
 ```
-snippet[source](https://css-tricks.com/snippets/css/css-repeating-gradients/)
+snippet [source](https://css-tricks.com/snippets/css/css-repeating-gradients/)
 
 
 
