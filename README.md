@@ -41,7 +41,13 @@ Here is the list of sports, I would recommend someone to try because playing spo
 > "Your time is limited, don't waste it living someone else's life." - *Steve Jobs*
 
 ---
-Code Fencing
+### Code Fencing
+>  How to stop repeating-linear- gradiants in css - [Article](https://stackoverflow.com/questions/66942466/how-to-stop-a-repeating-linear-gradient-in-css)
+
+```
+<div class="gradient"></div>
+```
+snippet[source](https://css-tricks.com/snippets/css/css-repeating-gradients/)
 
 
 
